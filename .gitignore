@@ -1,0 +1,12 @@
+.DS_Store
+*.swp
+.vscode
+.idea
+
+node_modules
+npm-debug.log
+package-lock.json
+dist
+# 具体项目
+project/*
+!project/tpl
